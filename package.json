@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "start": "vue-cli-service build",
     "host": "node run.js",
     "proxy": "PROXY_ONLY=true node run.js"
   },
